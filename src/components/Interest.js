@@ -7,7 +7,7 @@ export default function Interest() {
         <h2>Interests</h2>
         <p>
           Foodie. Movie Buff. Reader. Internet fanatic. Tech Enthusiast. Travel
-          geek. Anime. Chai Lover.
+          geek. Anime. Coffee Lover.
         </p>
       </div>
     </div>

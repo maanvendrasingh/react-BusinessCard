@@ -8,7 +8,7 @@ export default function Info() {
       <div className="info-img"></div>
       <h1>Maanvendra Singh</h1>
       <h4>Frontend Developer</h4>
-      <h5>maansingh.website</h5>
+      <h5>devninja.netlify.app</h5>
       <div className="info--buttons">
         <a
           href="https://mailto:maanstark@gmail.com
